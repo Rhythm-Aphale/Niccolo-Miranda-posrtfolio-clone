@@ -18,5 +18,6 @@ This project is a **clone of Niccolò Miranda’s portfolio**, built using **HTM
 ## 📜 How to Run  
 1. Clone the repository:  
    ```bash
-   
+   git clone https://github.com/Rhythm-Aphale/Niccolo-Miranda-posrtfolio-clone.git
+
 
